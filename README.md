@@ -1,7 +1,7 @@
 # Being-A-Girl
 Hey working women! Tired of boring outfits? Looking for comfortable, charismatic, and beautiful styles? Welcome to my blog! Find all your fashion answers here. Created with HTML, CSS, and JavaScript, explore various genres and contact us!
 
-Feature
+# Feature
 
 **Navigation Bar with Dropdown**:
 1)Easily navigate through several genres using our intuitive dropdown menu.
@@ -19,11 +19,11 @@ Discover new topics and delve deeper into areas of interest.
 Have questions or want to connect? Use our contact form to get in touch with us.
 We value your feedback and look forward to hearing from you.
 
-Tech Stack
-1)HTML: For structuring the content on the website.
-2)CSS: For styling and ensuring a visually appealing and responsive design.
-3)JavaScript: For interactive elements and enhanced user experience.
-4)Hosted on Vercel: Ensuring a reliable and fast-loading website.
+# Tech Stack
+ 1) HTML: For structuring the content on the website.
+ 2) CSS: For styling and ensuring a visually appealing and responsive design.
+ 3) JavaScript: For interactive elements and enhanced user experience.
+ 4) Hosted on Vercel: Ensuring a reliable and fast-loading website.
 
 Getting Started
 To view the website, simply visit My Being A Girl here is the link - https://yneha-being-a-girl.vercel.app/ 
